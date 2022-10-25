@@ -1,8 +1,8 @@
 {
   "extName": {
-    "message": "タイトル"
+    "message": "Twitter socialdog detector"
   },
   "extDescription": {
-    "message": "概要"
+    "message": "ツイートソースがSocialdog for Twitterの場合に警告表示します"
   }
 }

@@ -1,8 +1,8 @@
 {
   "extName": {
-    "message": "title"
+    "message": "Twitter socialdog detector"
   },
   "extDescription": {
-    "message": "desc"
+    "message": "Warn if the tweet source is 'Socialdog for Twitter'"
   }
 }
