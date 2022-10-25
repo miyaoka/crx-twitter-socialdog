@@ -3,6 +3,6 @@
     "message": "Twitter socialdog detector"
   },
   "extDescription": {
-    "message": "Warn if the tweet source is 'Socialdog for Twitter'"
+    "message": "Warn if the tweet source is 'SocialDog for Twitter'"
   }
 }

@@ -3,6 +3,6 @@
     "message": "Twitter socialdog detector"
   },
   "extDescription": {
-    "message": "ツイートソースがSocialdog for Twitterの場合に警告表示します"
+    "message": "ツイートソースがSocialDog for Twitterの場合に警告表示します"
   }
 }
